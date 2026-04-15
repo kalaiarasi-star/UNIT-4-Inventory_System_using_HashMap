@@ -1,0 +1,1 @@
+This project is a simple Inventory Management System developed in Java that uses the HashMap data structure to store and manage product details efficiently. Each product is stored with a unique key (such as product ID), allowing fast access, update, and deletion of records.
